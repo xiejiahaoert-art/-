@@ -1,4 +1,4 @@
 interface:
   display_name: "卡通编辑风图文"
-  short_description: "按作者已确认的标题、插画和排版偏好，制作可直接发布的中文滑动图文"
-  default_prompt: "用 $editorial-carousel 把这份素材做成带悬念封面和实用内页的中文图文。"
+  short_description: "按内容设计封面标题、字体和翻页结构，制作可直接发布的中文滑动图文"
+  default_prompt: "用 $editorial-carousel 把这份素材做成中文滑动图文，先确定首图展示什么，以及第 2 张怎么回应。"
